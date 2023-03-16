@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main
+ * main main - prints "Programming is like building a multilingual
  * Return: Always 0
  * aywa lfanid kteb daqshy
  */
