@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
  * main
+ * Return: Always 0
+ * aywa lfanid kteb daqshy
  */
 
 
